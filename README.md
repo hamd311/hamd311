@@ -73,8 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamd311&show_icons=true&theme=tokyonight&locale=en&hide_border=true&cache_seconds=1800" alt="hamd311" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamd311&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true&cache_seconds=1800" alt="hamd311" height="165"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamd311&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
