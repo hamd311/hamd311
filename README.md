@@ -72,12 +72,12 @@ class Hamd extends Engineer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamd311&show_icons=true&hide_border=true&bg_color=0a1020&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamd311&layout=compact&hide_border=true&bg_color=0a1020&title_color=2dd4bf&text_color=cbd5e1" />
+<img width="100%" alt="Profile details and contributions" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamd311&theme=aura_dark" />
+
+<img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamd311&theme=aura_dark" />
+<img width="49%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamd311&theme=aura_dark" />
 
 <img src="https://streak-stats.demolab.com/?user=hamd311&hide_border=true&background=0A1020&ring=2DD4BF&fire=F87171&currStreakLabel=2DD4BF&sideLabels=CBD5E1&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=64748B" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamd311&bg_color=0a1020&color=cbd5e1&line=2dd4bf&point=38bdf8&area=true&area_color=2dd4bf&hide_border=true" />
 
 </div>
 
