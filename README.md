@@ -2,70 +2,123 @@
 
 ![Header](./github-header-image.png)
 
-# Hi 👋, I'm Hamd ullah
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=620&lines=Backend-heavy+Full-Stack+Engineer;NestJS+%E2%80%A2+MongoDB+%E2%80%A2+Redis%2FBullMQ+%E2%80%A2+AWS;Social+platform+integrations+at+scale;Open+to+remote+roles+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
-### Full Stack Web Developer from Pakistan 🇵🇰
-### Building modern web apps with React, Next.js & NestJS
-
-[![Profile Views](https://komarev.com/ghpvc/?username=hamd311&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hamd311)
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🚀 **Full Stack Web Developer** with hands-on experience building scalable web applications
-- ⚡ Specialized in **React, Next.js** on the frontend and **NestJS, Node.js** on the backend
-- ☁️ Experienced with **AWS** services including S3, EventBridge, Lambda, and more
-- 🌱 Currently learning **GraphQL**
-- 💻 All my projects are at [mysite-30254.web.app](https://mysite-30254.web.app/)
-- 💬 Ask me about **MERN, Next.js, NestJS and React Native**
-- 📫 Reach me at **hamdullahdir98@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamd-ullah-7747b6218)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/hamdullah.kha/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdullahdir98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamd-ullah-7747b6218)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://mysite-30254.web.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamdullahdir98@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hamd311&label=VIEWS&color=2dd4bf&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧑‍💻 About Me
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
+```ts
+class Hamd extends Engineer {
+  role       = "Full-Stack Engineer (backend-heavy)";
+  company    = "Trailfive Technologies";
+  location   = "Islamabad, Pakistan 🇵🇰";
+  experience = "4+ years in production";
+  education  = "BS Software Engineering, UET Peshawar";
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  focus   = ["Scalable APIs", "Third-party integrations", "Queues & jobs"];
+  openTo  = ["Remote backend roles", "Full-stack roles"];
+  askMeAbout = "NestJS, MongoDB, BullMQ, AWS, React/Next.js";
+}
+```
 
-### Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🔌 Integrated **TikTok, Instagram, Facebook & LinkedIn** APIs end-to-end — OAuth, publishing, webhooks, mentions
+- ⚙️ Built queue-driven scheduling with **Redis + BullMQ** (prepare/commit pipelines, retries, rate limits)
+- 🎞️ Designed a media validation pipeline with **ffprobe + AWS MediaConvert** to auto-fix non-compliant videos
+- 🔐 Shipped workspace-level authorization (guards + access service) across a multi-tenant SaaS
+
+---
+
+## 💼 Experience
+
+<table>
+<tr><td>
+
+🟢 **Full-Stack Engineer · Backend focus** — *Trailfive Technologies* &nbsp;`Jun 2023 – Present`
+- Backend engineer on **Stanify**, a social media management platform (NestJS, MongoDB, Redis/BullMQ, AWS)
+- Built and maintain TikTok, Instagram, Facebook and LinkedIn integrations: publishing, comments, mentions, webhooks
+- Owned scheduled publishing, webhook event classification, token-expiry/reconnect flows and media pipelines
+
+</td></tr>
+<tr><td>
+
+🔵 **React JS Developer** — *Logic Worms, Rawalpindi* &nbsp;`Jan 2022 – Jun 2023`
+- Built React.js frontends for client web applications
+
+</td></tr>
+<tr><td>
+
+🟣 **Intern** — *CodeMatics, Abbottabad* &nbsp;`Dec 2021 – Jan 2022`
+- Worked on web development fundamentals with JavaScript and React
+
+</td></tr>
+</table>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📣 Stanify
+Social media management SaaS — schedule, publish and engage across TikTok, Instagram, Facebook & LinkedIn.
+
+`NestJS` `MongoDB` `BullMQ` `AWS` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Tijarah POS
+Point-of-sale system for small businesses.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 NymoClinic
+Multi-tenant SaaS for UK pharmacies and private clinics.
+
+`Next.js` `shadcn/ui` `Tailwind`
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 Split
+Expense-splitting mobile app built for South Asia.
+
+`React Native` `Expo` `NestJS` `MongoDB`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Languages & Tools
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,graphql,mongodb,redis,mysql,react,nextjs,redux,tailwind,aws,docker,vercel,firebase,supabase,git,github,postman,linux&perline=11&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**BS Software Engineering** — *UET Peshawar* &nbsp;`2017 – 2021`
 
 ---
 
@@ -73,23 +126,26 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamd311&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamd311&show_icons=true&hide_border=true&bg_color=0a1020&title_color=2dd4bf&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamd311&layout=compact&hide_border=true&bg_color=0a1020&title_color=2dd4bf&text_color=cbd5e1" />
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=hamd311&hide_border=true&background=0A1020&ring=2DD4BF&fire=F87171&currStreakLabel=2DD4BF&sideLabels=CBD5E1&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=64748B" />
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamd311&theme=tokyonight
-)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamd311&bg_color=0a1020&color=cbd5e1&line=2dd4bf&point=38bdf8&area=true&area_color=2dd4bf&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamd311&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamd311/hamd311/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/hamd311/hamd311/output/github-snake.svg" />
+</picture>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1020,100:2dd4bf&height=110&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=f1f5f9&fontAlignY=70" />
