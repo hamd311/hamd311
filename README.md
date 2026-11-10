@@ -38,71 +38,17 @@ class Hamd extends Engineer {
 
 ## 💼 Experience
 
-<table>
-<tr><td>
-
-🟢 **Full-Stack Engineer · Backend focus** — *Trailfive Technologies* &nbsp;`Jun 2023 – Present`
-- Backend engineer on **Stanify**, a social media management platform (NestJS, MongoDB, Redis/BullMQ, AWS)
-- Built and maintain TikTok, Instagram, Facebook and LinkedIn integrations: publishing, comments, mentions, webhooks
-- Owned scheduled publishing, webhook event classification, token-expiry/reconnect flows and media pipelines
-
-</td></tr>
-<tr><td>
-
-🔵 **React JS Developer** — *Logic Worms, Rawalpindi* &nbsp;`Jan 2022 – Jun 2023`
-- Built React.js frontends for client web applications
-
-</td></tr>
-<tr><td>
-
-🟣 **Intern** — *CodeMatics, Abbottabad* &nbsp;`Dec 2021 – Jan 2022`
-- Worked on web development fundamentals with JavaScript and React
-
-</td></tr>
-</table>
+<div align="center">
+  <img src="./assets/experience.svg" alt="Experience timeline" width="100%" />
+</div>
 
 ---
 
 ## 🚀 Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📣 Stanify
-Social media management SaaS — schedule, publish and engage across TikTok, Instagram, Facebook & LinkedIn.
-
-`NestJS` `MongoDB` `BullMQ` `AWS` `Next.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Tijarah POS
-Point-of-sale system for small businesses.
-
-`React` `Node.js` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 NymoClinic
-Multi-tenant SaaS for UK pharmacies and private clinics.
-
-`Next.js` `shadcn/ui` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-### 💸 Split
-Expense-splitting mobile app built for South Asia.
-
-`React Native` `Expo` `NestJS` `MongoDB`
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/projects.svg" alt="Featured projects" width="100%" />
+</div>
 
 ---
 
